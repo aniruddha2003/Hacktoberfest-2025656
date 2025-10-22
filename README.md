@@ -17,8 +17,8 @@
   <!-- <a href="https://github.com/Shizu-ka/Hacktoberfest-2025/graphs/contributors">
     <img src="https://contrib.rocks/image?repo=Shizu-ka/Hacktoberfest-2025" />
   </a> -->
-<a href="https://github.com/fineanmol/Hacktoberfest2025/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=fineanmol/Hacktoberfest2025" />
+<a href="https://github.com/Shizu-ka/Hacktoberfest-2025/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Shizu-ka/Hacktoberfest-2025" />
 </a>
 </div>
 
